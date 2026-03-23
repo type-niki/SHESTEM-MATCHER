@@ -122,7 +122,7 @@ shestem-matcher/
 
 **Renne Nekesa**  
 GitHub: [@type-niki](https://github.com/type-niki)  
-Project: Moringa AI Capstone 2025
+Project: Moringa AI Capstone 2026
 
 ## 📄 License
 
@@ -137,4 +137,4 @@ MIT License - Feel free to use and adapt!
 ---
 
 **Built with AI assistance in 6 hours** | **Addressing real social impact** | **Powered by scikit-learn**
-EOF
+
