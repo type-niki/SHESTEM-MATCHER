@@ -1,5 +1,3 @@
-# Create new README with proper name (no space)
-cat > README.md << 'EOF'
 # SheSTEM AI: Study Group Matcher
 
 > AI-powered study group formation for female STEM students  
